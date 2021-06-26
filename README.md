@@ -38,7 +38,6 @@
 </p>
 <br/><br/>
 
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=alenworld/alenworld_profile)
 
-<!-- ![ViewCount](https://views.whatilearened.today/views/github/coderjojo/views.svg) -->
+![](https://komarev.com/ghpvc/?username=alenworld&color=red)

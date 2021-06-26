@@ -1,6 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/alenworld)
 
-<br/>
+
+<center>
 <a href="mailto:inalipa.alen@gmail.com">
   <img align="left" alt="Mail me" width="45px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/0b0e4a5c5a09f7cfaf2c42f7d5ac75cbb4cdb86f/icons/gmail.svg" />
 </a>
@@ -31,3 +32,4 @@
 <a href="https://steamcommunity.com/id/alenworld">
   <img align="left" alt="Profile in Steam" width="45px" src="https://camo.githubusercontent.com/2e51cfa2846afbace22819d8c7dd9afad50d0a414ad1d7d30e811952706f548d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f737465616d2e737667" />
 </a>
+</center>

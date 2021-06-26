@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alen</h1>
 
-![Profile views](https://gpvc.arturio.dev/Naereen)
+![Profile views](https://gpvc.arturio.dev/alenworld)
 
 </br>
 

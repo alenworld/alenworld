@@ -18,7 +18,7 @@
   <img align="left" alt="Instagram" width="50px" src="https://camo.githubusercontent.com/aecaf87326884e8b0466bb799265a13fee7586246ebda3e066cb7fad82a1fd23/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f696e7374616772616d2e737667" />
 </a>
 <a href="https://reddit.com/user/alenworld">
-  <img align="left" alt="Reddit" width="50px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
+  <img align="left" alt="Reddit" width="50px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/0b0e4a5c5a09f7cfaf2c42f7d5ac75cbb4cdb86f/icons/reddit.svg" />
 </a>
 <a href="https://medium.com/@alenworld">
   <img align="left" alt="Medium" width="50px" src="https://camo.githubusercontent.com/a583b5ce3b463c784cb87592b3da7b9b9d014d7a16adfff04b91cb1452ae4ca2/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d656469756d2e737667" />

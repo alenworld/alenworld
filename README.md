@@ -38,6 +38,6 @@
 </p>
 <br/><br/>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=alenworld/alenworld_profile)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=alenworld/alenworld_profile)
 
 

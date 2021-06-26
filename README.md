@@ -38,6 +38,6 @@
 </p>
 <br/><br/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=alenworld/alenworld_profile)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=alenworld/alenworld_profile)
 
-![](https://komarev.com/ghpvc/?username=alenworld&color=red)
+

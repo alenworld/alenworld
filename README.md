@@ -1,4 +1,4 @@
-
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=alenworld/alenworld_profile)
 
 
 ### Connect with me :smiley:
@@ -38,6 +38,6 @@
 </p>
 <br/><br/>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=alenworld/alenworld_profile)
+
 
 

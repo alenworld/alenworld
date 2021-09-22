@@ -9,8 +9,6 @@
 
 </br>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alenworld&show_icons=true&locale=en&layout=compact" alt="alenworld" /></p>
-
 - 📫 How to reach me **inalipa.alen@gmail.com**
 <h1></h1>
 <p align="center">
